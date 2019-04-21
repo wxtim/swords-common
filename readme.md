@@ -16,11 +16,16 @@ to use and modify these graphics for more or less any
 purpose.
 
 ## Designs
+### Swords
 #### Fixed handle Sword
 ![Fixed handle Sword](./svg/sword_fixed_handles.svg)
 
 #### Swivel handle Design A
 ![Twisty handle sword design A](./svg/sword_swivel_handles_style_A.svg)
+
+### Locks
+#### Fixed handle lock
+![Fixed Handle 5 Sword Lock](./svg/lock_5_fixed.svg)
 
 
 ## License
