@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="207.88777mm"
-   height="8.7676802mm"
-   viewBox="0 0 207.88777 8.7676802"
+   width="185.25555mm"
+   height="8.8125401mm"
+   viewBox="0 0 185.25555 8.8125401"
    version="1.1"
    id="svg1050"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="394.58101"
-     inkscape:cy="-15.084031"
+     inkscape:cx="387.08101"
+     inkscape:cy="-72.05734"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +55,7 @@
      transform="translate(-63.121591,-22.74116)">
     <g
        id="g1004"
-       transform="translate(54.873944,-11.046221)">
+       transform="translate(32.241725,-11.001361)">
       <path
          sodipodi:nodetypes="cccccc"
          inkscape:connector-curvature="0"
@@ -218,11 +218,11 @@
          sodipodi:type="star" />
     </g>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.51819599;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.48940739;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1042"
-       width="206.8257"
-       height="7.7184458"
-       x="63.65263"
-       y="23.2722" />
+       width="183.79794"
+       height="7.7472343"
+       x="63.638233"
+       y="23.257805" />
   </g>
 </svg>
