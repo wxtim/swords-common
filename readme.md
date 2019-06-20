@@ -55,4 +55,4 @@ Currently all work is solely by Tim Pillinger.
 If you wish to contribute casually you can make a comment to Tim in person if you know him, but otherwise have a look at the "issues" tab at the top of the page.
 
 ## What the $%^& is Rapper Sword?
-Rapper is a sword dance from the County Durham and Newcastle. Don't worry, the swords are blunt. For more information have a look at [rapper.org](www.rapper.org.uk/intro/rapper.php)
+Rapper is a sword dance from the County Durham and Newcastle. Don't worry, the swords are blunt. For more information have a look at [rapper.org.uk](http://www.rapper.org.uk/intro/rapper.php)
