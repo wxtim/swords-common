@@ -225,4 +225,12 @@
        x="63.638233"
        y="23.257805" />
   </g>
+  <style>
+     path {
+         fill: black;
+     }
+     @media (prefers-color-scheme: dark) {
+         path { fill: white; }
+     }
+  </style>
 </svg>
